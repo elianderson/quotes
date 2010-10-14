@@ -1,3 +1,5 @@
+//This is a change by Eli Anderson
+
 {
     "quotes": [
         {
@@ -19,6 +21,11 @@
         {
             "quote": "That code should be thrown on the floor, set on fire, and jumped up and down on!",
             "by": "Bornstein"
-        } 
+        }	,
+	        {
+	            "quote": "It is what It is",
+	            "by": "Eli Anderson"
+	        } 
+	    ] 
     ]
 }
